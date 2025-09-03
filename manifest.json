@@ -1,11 +1,11 @@
 {
-    "name": "avac_report",
-    "short_name": "avac_report",
+    "name": "report",
+    "short_name": "report",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Projeto de relatórios de serviço",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
